@@ -1,0 +1,1 @@
+Evita errores como desbordamientos o pérdida de precisión optimiza la memoria y mejora el rendimiento del programa hace el código más claro y fácil de entender
